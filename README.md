@@ -3,4 +3,4 @@ FIXING ERROR ERC not found: File import callback not supported. VERIFY CONTRACT 
 
 
 
-As a courtesy, the missing part to verify was an empty constructor value that I could identify in the json. I have used https://abi.hashex.org/ and https://blockscout.com/ to analyze the problem. This is the way I can help you for your next customers. Thank you.
+As a courtesy, the missing part to verify was an empty constructor value that I could identify in the json. I have used https://abi.hashex.org/ and https://blockscout.com/ to analyze the problem. . Thank you.
